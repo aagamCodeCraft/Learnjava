@@ -3,7 +3,7 @@ package newtojava;
 public class day1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("hello aagam! Lets start learning");
 
 	}
 
